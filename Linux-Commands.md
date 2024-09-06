@@ -70,7 +70,7 @@ A este último directorio nos referiremos como 'directorio de trabajo'. Para ell
 $ cd ~
 $ mkdir practicas
 $ cd practicas
-$ git clone git@github.com:IB-2023-2024/P02-LinuxCommands.git IB-p02-LinuxCommands
+$ git clone git@github.com:IB-2024-2025/P02-LinuxCommands.git IB-p02-LinuxCommands
 ```
 
 #### Ejercicio 2. 
